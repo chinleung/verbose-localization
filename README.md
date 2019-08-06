@@ -125,61 +125,96 @@ The methods are seperated by language families which are located in [src/Concern
 
 <details>
 <summary>View Methods</summary>
-
-* inAfrikaans
+    
 * inAlbanian
 * inArmenian
+* inGreek
+
+#### [Balto-Slavic](https://github.com/chinleung/verbose-localization/tree/master/src/Concerns/HasBaltoSlavicVerboseMethods.php)
+
+<details>
+<summary>View Methods</summary>
+    
 * inBelarusian
-* inBengali
 * inBosnian
 * inBulgarian
-* inCatalan
-* inCorsican
 * inCroatian
 * inCzech
+* inLatvian
+* inLithuanian
+* inMacedonian
+* inPolish
+* inRussian
+* inSerbian
+* inSlovak
+* inSlovenian
+* inUkrainian
+</details>
+
+#### [Celtic](https://github.com/chinleung/verbose-localization/tree/master/src/Concerns/HasCelticVerboseMethods.php)
+
+<details>
+<summary>View Methods</summary>
+    
+* inIrish
+* inScotsGaelic
+* inWelsh
+</details>
+
+#### [Germanic](https://github.com/chinleung/verbose-localization/tree/master/src/Concerns/HasGermanicVerboseMethods.php)
+
+<details>
+<summary>View Methods</summary>
+    
+* inAfrikaans
 * inDanish
 * inDutch
 * inEnglish
-* inFrench
 * inFrisian
-* inGalician
 * inGerman
-* inGreek
+* inIcelandic
+* inLuxembourgish
+* inNorwegian
+* inSwedish
+* inYiddish
+</details>
+
+#### [Indo-Iranian](https://github.com/chinleung/verbose-localization/tree/master/src/Concerns/HasIndoIranianVerboseMethods.php)
+
+<details>
+<summary>View Methods</summary>
+    
+* inBengali
 * inGujarati
 * inHindi
-* inIcelandic
-* inIndonesian
-* inIrish
-* inItalian
 * inKurmanjiKurdish
-* inLatin
-* inLatvian
-* inLithuanian
-* inLuxembourgish
-* inMacedonian
 * inMarathi
 * inNepali
-* inNorwegian
 * inPashto
 * inPersian
-* inPolish
-* inPortuguese
 * inPunjabi
-* inRomanian
-* inRussian
-* inScotsGaelic
-* inSerbian
 * inSindhi
 * inSinhala
-* inSlovak
-* inSlovenian
-* inSpanish
-* inSwedish
 * inTajik
-* inUkrainian
 * inUrdu
-* inWelsh
-* inYiddish
+</details>
+
+#### [Italic](https://github.com/chinleung/verbose-localization/tree/master/src/Concerns/HasItalicVerboseMethods.php)
+
+<details>
+<summary>View Methods</summary>
+    
+* inCatalan
+* inCorsican
+* inFrench
+* inGalician
+* inItalian
+* inLatin
+* inPortuguese
+* inRomanian
+* inSpanish
+</details>
+
 </details>
 
 ### [Isolate](https://github.com/chinleung/verbose-localization/tree/master/src/Concerns/HasIsolateVerboseMethods.php)
