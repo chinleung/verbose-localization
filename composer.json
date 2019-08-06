@@ -1,0 +1,44 @@
+{
+    "name": "chinleung/verbose-localization",
+    "description": "A package to allow your class to support verbose localization.",
+    "keywords": [
+        "chinleung",
+        "verbose-localization",
+        "localization",
+        "verbose"
+    ],
+    "homepage": "https://github.com/chinleung/verbose-localization",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Chin Leung",
+            "email": "hello@chinleung.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ChinLeung\\VerboseLocalization\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ChinLeung\\VerboseLocalization\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
