@@ -43,6 +43,16 @@ trait HasAustronesianVerboseMethods
     }
 
     /**
+     * Function to retrieve the translation in Indonesian.
+     *
+     * @returnsmixed
+     */
+    public function inIndonesian()
+    {
+        return $this->getTranslationIn('id');
+    }
+
+    /**
      * Function to retrieve the name in Javanese.
      *
      * @returnsmixed
