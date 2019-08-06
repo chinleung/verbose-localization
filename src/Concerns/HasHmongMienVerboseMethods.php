@@ -15,7 +15,7 @@ trait HasHmongMienVerboseMethods
     /**
      * Function to retrieve the name in Hmong.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inHmong() : string
     {

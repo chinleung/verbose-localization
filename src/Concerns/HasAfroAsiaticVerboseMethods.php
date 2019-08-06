@@ -15,7 +15,7 @@ trait HasAfroAsiaticVerboseMethods
     /**
      * Function to retrieve the translation in Amharic.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inAmharic()
     {
@@ -25,7 +25,7 @@ trait HasAfroAsiaticVerboseMethods
     /**
      * Function to retrieve the translation in Arabic.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inArabic()
     {
@@ -35,7 +35,7 @@ trait HasAfroAsiaticVerboseMethods
     /**
      * Function to retrieve the translation in Hausa.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inHausa()
     {
@@ -45,7 +45,7 @@ trait HasAfroAsiaticVerboseMethods
     /**
      * Function to retrieve the translation in Hebrew.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inHebrew()
     {
@@ -55,7 +55,7 @@ trait HasAfroAsiaticVerboseMethods
     /**
      * Function to retrieve the translation in Maltese.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inMaltese()
     {
@@ -65,7 +65,7 @@ trait HasAfroAsiaticVerboseMethods
     /**
      * Function to retrieve the translation in Somali.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inSomali()
     {

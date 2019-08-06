@@ -15,7 +15,7 @@ trait HasAustronesianVerboseMethods
     /**
      * Function to retrieve the name in Cebuano.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inCebuano() : string
     {
@@ -25,7 +25,7 @@ trait HasAustronesianVerboseMethods
     /**
      * Function to retrieve the name in Filipino.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inFilipino() : string
     {
@@ -35,7 +35,7 @@ trait HasAustronesianVerboseMethods
     /**
      * Function to retrieve the name in Hawaiian.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inHawaiian() : string
     {
@@ -45,7 +45,7 @@ trait HasAustronesianVerboseMethods
     /**
      * Function to retrieve the translation in Indonesian.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inIndonesian()
     {
@@ -55,7 +55,7 @@ trait HasAustronesianVerboseMethods
     /**
      * Function to retrieve the name in Javanese.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inJavanese() : string
     {
@@ -65,7 +65,7 @@ trait HasAustronesianVerboseMethods
     /**
      * Function to retrieve the name in Khmer.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inKhmer() : string
     {
@@ -75,7 +75,7 @@ trait HasAustronesianVerboseMethods
     /**
      * Function to retrieve the name in Malagasy.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inMalagasy() : string
     {
@@ -85,7 +85,7 @@ trait HasAustronesianVerboseMethods
     /**
      * Function to retrieve the name in Malay.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inMalay() : string
     {
@@ -95,7 +95,7 @@ trait HasAustronesianVerboseMethods
     /**
      * Function to retrieve the name in Maori.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inMaori() : string
     {
@@ -105,7 +105,7 @@ trait HasAustronesianVerboseMethods
     /**
      * Function to retrieve the name in Samoan.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inSamoan() : string
     {
@@ -115,7 +115,7 @@ trait HasAustronesianVerboseMethods
     /**
      * Function to retrieve the name in Sundanese.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inSundanese() : string
     {
@@ -125,7 +125,7 @@ trait HasAustronesianVerboseMethods
     /**
      * Function to retrieve the name in Vietnamese.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inVietnamese() : string
     {

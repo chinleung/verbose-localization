@@ -25,7 +25,7 @@ trait HasIndoIranianVerboseMethods
     /**
      * Function to retrieve the translation in Gujarati.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inGujarati()
     {
@@ -35,7 +35,7 @@ trait HasIndoIranianVerboseMethods
     /**
      * Function to retrieve the translation in Hindi.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inHindi()
     {
@@ -45,7 +45,7 @@ trait HasIndoIranianVerboseMethods
     /**
      * Function to retrieve the translation in Kurdish (Kurmanji).
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inKurmanjiKurdish()
     {
@@ -55,7 +55,7 @@ trait HasIndoIranianVerboseMethods
     /**
      * Function to retrieve the translation in Marathi.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inMarathi()
     {
@@ -65,7 +65,7 @@ trait HasIndoIranianVerboseMethods
     /**
      * Function to retrieve the translation in Nepali.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inNepali() : string
     {
@@ -75,7 +75,7 @@ trait HasIndoIranianVerboseMethods
     /**
      * Function to retrieve the translation in Pashto.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inPashto() : string
     {
@@ -85,7 +85,7 @@ trait HasIndoIranianVerboseMethods
     /**
      * Function to retrieve the translation in Persian.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inPersian() : string
     {
@@ -95,7 +95,7 @@ trait HasIndoIranianVerboseMethods
     /**
      * Function to retrieve the translation in Punjabi.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inPunjabi() : string
     {
@@ -105,7 +105,7 @@ trait HasIndoIranianVerboseMethods
     /**
      * Function to retrieve the translation in Urdu.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inUrdu() : string
     {
@@ -115,7 +115,7 @@ trait HasIndoIranianVerboseMethods
     /**
      * Function to retrieve the translation in Tajik.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inTajik() : string
     {
@@ -125,7 +125,7 @@ trait HasIndoIranianVerboseMethods
     /**
      * Function to retrieve the translation in Sinhala.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inSinhala() : string
     {
@@ -135,7 +135,7 @@ trait HasIndoIranianVerboseMethods
     /**
      * Function to retrieve the translation in Sindhi.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inSindhi() : string
     {

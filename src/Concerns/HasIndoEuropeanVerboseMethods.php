@@ -41,7 +41,7 @@ trait HasIndoEuropeanVerboseMethods
     /**
      * Function to retrieve the translation in Greek.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inGreek()
     {

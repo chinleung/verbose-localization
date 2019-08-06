@@ -45,7 +45,7 @@ trait HasItalicVerboseMethods
     /**
      * Function to retrieve the translation in Galician.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inGalician()
     {
@@ -55,7 +55,7 @@ trait HasItalicVerboseMethods
     /**
      * Function to retrieve the translation in Italian.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inItalian()
     {
@@ -65,7 +65,7 @@ trait HasItalicVerboseMethods
     /**
      * Function to retrieve the translation in Latin.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inLatin()
     {
@@ -75,7 +75,7 @@ trait HasItalicVerboseMethods
     /**
      * Function to retrieve the translation in Portuguese.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inPortuguese() : string
     {
@@ -85,7 +85,7 @@ trait HasItalicVerboseMethods
     /**
      * Function to retrieve the translation in Romanian.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inRomanian() : string
     {
@@ -95,7 +95,7 @@ trait HasItalicVerboseMethods
     /**
      * Function to retrieve the translation in Spanish.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inSpanish() : string
     {

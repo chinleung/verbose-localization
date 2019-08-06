@@ -15,7 +15,7 @@ trait HasDravidianVerboseMethods
     /**
      * Function to retrieve the translation in Kannada.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inKannada()
     {
@@ -25,7 +25,7 @@ trait HasDravidianVerboseMethods
     /**
      * Function to retrieve the translation in Malayalam.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inMalayalam()
     {
@@ -35,7 +35,7 @@ trait HasDravidianVerboseMethods
     /**
      * Function to retrieve the translation in Tamil.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inTamil()
     {
@@ -45,7 +45,7 @@ trait HasDravidianVerboseMethods
     /**
      * Function to retrieve the translation in Telugu.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inTelugu()
     {

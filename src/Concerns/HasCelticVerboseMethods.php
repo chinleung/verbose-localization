@@ -15,7 +15,7 @@ trait HasCelticVerboseMethods
     /**
      * Function to retrieve the translation in Irish.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inIrish()
     {
@@ -25,7 +25,7 @@ trait HasCelticVerboseMethods
     /**
      * Function to retrieve the translation in Welsh.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inWelsh() : string
     {
@@ -35,7 +35,7 @@ trait HasCelticVerboseMethods
     /**
      * Function to retrieve the translation in Scots Gaelic.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inScotsGaelic() : string
     {

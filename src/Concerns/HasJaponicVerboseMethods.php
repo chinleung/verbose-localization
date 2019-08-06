@@ -15,7 +15,7 @@ trait HasJaponicVerboseMethods
     /**
      * Function to retrieve the translation in Japanese.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inJapanese()
     {

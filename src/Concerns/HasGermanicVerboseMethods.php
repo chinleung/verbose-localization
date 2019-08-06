@@ -55,7 +55,7 @@ trait HasGermanicVerboseMethods
     /**
      * Function to retrieve the translation in Frisian.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inFrisian()
     {
@@ -65,7 +65,7 @@ trait HasGermanicVerboseMethods
     /**
      * Function to retrieve the translation in German.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inGerman()
     {
@@ -75,7 +75,7 @@ trait HasGermanicVerboseMethods
     /**
      * Function to retrieve the translation in Icelandic.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inIcelandic()
     {
@@ -85,7 +85,7 @@ trait HasGermanicVerboseMethods
     /**
      * Function to retrieve the translation in Luxembourgish.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inLuxembourgish()
     {
@@ -95,7 +95,7 @@ trait HasGermanicVerboseMethods
     /**
      * Function to retrieve the translation in Norwegian.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inNorwegian() : string
     {
@@ -105,7 +105,7 @@ trait HasGermanicVerboseMethods
     /**
      * Function to retrieve the translation in Yiddish.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inYiddish() : string
     {
@@ -115,7 +115,7 @@ trait HasGermanicVerboseMethods
     /**
      * Function to retrieve the translation in Swedish.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inSwedish() : string
     {

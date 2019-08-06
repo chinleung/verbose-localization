@@ -15,7 +15,7 @@ trait HasSinoTibetanVerboseMethods
     /**
      * Function to retrieve the name in Chinese (Simplified).
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inSimplifiedChinese() : string
     {
@@ -25,7 +25,7 @@ trait HasSinoTibetanVerboseMethods
     /**
      * Function to retrieve the name in Chinese (Traditional).
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inTraditionalChinese() : string
     {
@@ -35,7 +35,7 @@ trait HasSinoTibetanVerboseMethods
     /**
      * Function to retrieve the name in Myanmar (Burmese).
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inBurmeseMyanmar() : string
     {

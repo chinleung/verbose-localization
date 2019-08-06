@@ -65,7 +65,7 @@ trait HasBaltoSlavicVerboseMethods
     /**
      * Function to retrieve the translation in Latvian.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inLatvian()
     {
@@ -75,7 +75,7 @@ trait HasBaltoSlavicVerboseMethods
     /**
      * Function to retrieve the translation in Lithuanian.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inLithuanian()
     {
@@ -85,7 +85,7 @@ trait HasBaltoSlavicVerboseMethods
     /**
      * Function to retrieve the translation in Macedonian.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inMacedonian()
     {
@@ -95,7 +95,7 @@ trait HasBaltoSlavicVerboseMethods
     /**
      * Function to retrieve the translation in Polish.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inPolish() : string
     {
@@ -105,7 +105,7 @@ trait HasBaltoSlavicVerboseMethods
     /**
      * Function to retrieve the translation in Russian.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inRussian() : string
     {
@@ -115,7 +115,7 @@ trait HasBaltoSlavicVerboseMethods
     /**
      * Function to retrieve the translation in Serbian.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inSerbian() : string
     {
@@ -125,7 +125,7 @@ trait HasBaltoSlavicVerboseMethods
     /**
      * Function to retrieve the translation in Slovak.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inSlovak() : string
     {
@@ -135,7 +135,7 @@ trait HasBaltoSlavicVerboseMethods
     /**
      * Function to retrieve the translation in Slovenian.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inSlovenian() : string
     {
@@ -145,7 +145,7 @@ trait HasBaltoSlavicVerboseMethods
     /**
      * Function to retrieve the translation in Ukrainian.
      *
-     * @returnsmixed
+     * @return mixed
      */
     public function inUkrainian() : string
     {
