@@ -22,7 +22,7 @@ trait HasVerboseLocalization
     /**
      * Retrieve the translation in another locale.
      *
-     * @var  string  $locale
+     * @var  string 
      * @return mixed
      */
     abstract public function getTranslationIn(string $locale);
